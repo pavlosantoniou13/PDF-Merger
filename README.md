@@ -1,3 +1,5 @@
+![App Preview](Sample.png)
+
 Adobe != Free so i created this to merge pdfs.
 
 How to use: 
