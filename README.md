@@ -7,7 +7,6 @@ You’ll need Python installed. This app uses Streamlit for the UI, pypdf for me
 
 2. Installation
 Clone this repo and install the requirements:
-
 git clone https://github.com/your-username/pdf-divider-merger.git
 cd pdf-divider-merger
 pip install streamlit pypdf reportlab
